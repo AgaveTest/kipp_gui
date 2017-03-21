@@ -1,0 +1,4 @@
+Sat, 28 Jan 2017 04:17:09 t_log.py[line:29] DEBUG This is debug message
+Sat, 28 Jan 2017 04:17:09 t_log.py[line:30] INFO This is info message
+Sat, 28 Jan 2017 04:17:09 t_log.py[line:31] WARNING This is warning message
+Thu, 02 Feb 2017 10:01:48 t_log1.py[line:7] DEBUG tar url: 

@@ -1,0 +1,38 @@
+Sat, 28 Jan 2017 04:23:25 kloger.py[line:7] DEBUG This is debug message
+Sat, 28 Jan 2017 04:23:25 kloger.py[line:8] INFO This is info message
+Sat, 28 Jan 2017 04:23:25 kloger.py[line:9] WARNING This is warning message
+Sat, 28 Jan 2017 04:24:20 kloger.py[line:7] DEBUG This is debug message
+Sat, 28 Jan 2017 04:24:20 kloger.py[line:8] INFO This is info message
+Sat, 28 Jan 2017 04:24:20 kloger.py[line:9] WARNING This is warning message
+Sat, 28 Jan 2017 04:25:26 kloger.py[line:7] DEBUG This is debug message
+Sat, 28 Jan 2017 04:25:26 kloger.py[line:8] INFO This is info message
+Sat, 28 Jan 2017 04:25:26 kloger.py[line:9] WARNING This is warning message
+Sat, 28 Jan 2017 04:30:17 kloger.py[line:7] DEBUG This is debug message
+Sat, 28 Jan 2017 04:30:17 kloger.py[line:8] INFO This is info message
+Sat, 28 Jan 2017 04:30:17 kloger.py[line:9] WARNING This is warning message
+Wed, 01 Feb 2017 10:06:57 _internal.py[line:87] INFO  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+Wed, 01 Feb 2017 10:06:57 _internal.py[line:87] INFO  * Restarting with stat
+Wed, 01 Feb 2017 10:06:58 _internal.py[line:87] WARNING  * Debugger is active!
+Wed, 01 Feb 2017 10:06:58 _internal.py[line:87] INFO  * Debugger pin code: 118-994-346
+Wed, 01 Feb 2017 12:05:34 kipp.py[line:64] DEBUG send message to tars!
+Wed, 01 Feb 2017 12:05:34 kipp.py[line:64] DEBUG send message to tars!
+Wed, 01 Feb 2017 12:22:19 _internal.py[line:87] INFO  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+Wed, 01 Feb 2017 12:22:19 _internal.py[line:87] INFO  * Restarting with stat
+Wed, 01 Feb 2017 12:22:19 _internal.py[line:87] WARNING  * Debugger is active!
+Wed, 01 Feb 2017 12:22:19 _internal.py[line:87] INFO  * Debugger pin code: 118-994-346
+Wed, 01 Feb 2017 12:23:12 _internal.py[line:87] INFO  * Detected change in '/Users/sirius/Documents/workspace_dd/Agave_kipp_py_selenium/kipp.py', reloading
+Wed, 01 Feb 2017 12:23:12 _internal.py[line:87] INFO  * Restarting with stat
+Wed, 01 Feb 2017 12:23:12 kipp.py[line:68] DEBUG send message to tars!
+Wed, 01 Feb 2017 12:23:12 kipp.py[line:78] DEBUG tar url: 127.0.0.1:7988/hello
+Wed, 01 Feb 2017 12:23:15 kipp.py[line:68] DEBUG send message to tars!
+Wed, 01 Feb 2017 12:23:15 kipp.py[line:78] DEBUG tar url: 127.0.0.1:7988/hello
+Wed, 01 Feb 2017 12:23:26 kipp.py[line:68] DEBUG send message to tars!
+Wed, 01 Feb 2017 12:23:26 kipp.py[line:78] DEBUG tar url: 127.0.0.1:7988/hello
+Wed, 01 Feb 2017 12:24:29 kipp.py[line:68] DEBUG send message to tars!
+Wed, 01 Feb 2017 12:24:29 kipp.py[line:78] DEBUG tar url: 127.0.0.1:7988/hello
+Thu, 02 Feb 2017 09:50:55 kipp.py[line:47] DEBUG send message to tars!
+Thu, 02 Feb 2017 09:50:55 kipp.py[line:57] DEBUG tar url: 127.0.0.1:7988/hello
+Thu, 02 Feb 2017 09:52:32 kipp.py[line:47] DEBUG send message to tars!
+Thu, 02 Feb 2017 09:52:32 kipp.py[line:57] DEBUG tar url: 127.0.0.1:7988/hello
+Thu, 02 Feb 2017 09:52:32 kipp.py[line:59] DEBUG say hello data:
+Thu, 02 Feb 2017 09:52:32 kipp.py[line:60] DEBUG {'status': 'online', 'name': u'kipp001', 'timestamp': '', 'sid': u'onekipps001', 'ip': u'127.0.0.1', 'type': u'rest', 'port': u'9999'}
